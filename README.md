@@ -91,7 +91,7 @@ Also, the parser extracts available strings (`insns_enricher.py`):
 1. Install [BCC](https://github.com/iovisor/bcc/blob/master/INSTALL.md);
 2. Clone this repository:
 ```bash
-$ git clone <link>
+$ git clone https://github.com/4RAYS-by-SOLAR/ebpf-sentry.git
 ```
 3. Change or create your own detection patterns in `ebpfcodegenerator.py` and select [pattern](#patterns) in `bpf_kprobe_handler.py`;
 4. Run `bpf_kprobe_handler.py` as root:
