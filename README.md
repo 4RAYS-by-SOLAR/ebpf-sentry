@@ -1,7 +1,7 @@
 # 4RAYS eBPF Sentry
 
 The Proof-of-Concept tool demonstrates some insights into detection and prevention based on eBPF programs' instructions and metadata. This tool also extracts available strings and translates eBPF instructions to human-readable format according to Linux kernel headers.\
-Full article can be found [here] (https://rt-solar.ru/solar-4rays/blog/4918/)
+Full article can be found [here](https://rt-solar.ru/solar-4rays/blog/4918/).
 
 
 ## Key concepts
